@@ -1,11 +1,5 @@
 ## Overview
-Repository with preconfigured maven project with junit5 configuration
-
-## Building
-...
-
-## Troubleshooting
-...
+Домашнее задание к занятию «2.3. Spring Web MVC»  
 
 ## Release Notes
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
